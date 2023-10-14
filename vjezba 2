@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+
+	</head>
+
+	<body>
+
+		<h1>Mbappé odlučio poslasticu večeri i odveo Francuze na Euro! Još dvije reprezentacije osigurale Njemačku </h1>
+
+		<h2>Tri kola prije završetka kvalifikacija imamo prve putnike na veliku smotru </h2>
+
+		<p> Nogometaši Francuske, Belgije i Portugala osigurali su nastup na EURU 2024. godine u Njemačkoj već u petak, tri kola prije završetka kvalifikacija osiguravši jedno od prva dva mjesta u skupinama B, F, odnosno J. </p>
+
+		<p> Aktualni svjetski doprvak Francuska u svom je šestom nastupu u skupini B ostvarila i šestu pobjedu svladavši kao gost Nizozemsku </p>
+
+		<img src="mbape.jpg" alt="neki opis" height= "400">
+
+		<img src="https://static.jutarnji.hr/images/slike/2023/10/13/o_30826127_1280.jpg" alt=‘Neki opis’ height= "400">
+
+	</body>
+
+</html>
