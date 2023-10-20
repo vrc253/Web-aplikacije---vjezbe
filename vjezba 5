@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+</head>
+<body>
+
+    <h1>Popis mobitela</h1>
+        <table border="1" cellspacing="5" cellpadding="5">
+            <tr>
+                <th colspan="2">Samsung</th>         
+                <th colspan="2">Apple</th>
+
+            </tr>
+
+            <tr>
+                <td><img src="https://m.media-amazon.com/images/I/81DWxfLLtFL.jpg " width="50" height="60" alt="Samsung Galaxy S8" title="Samsung Galaxy S8"></td>
+                <td>Galaxy S8</td>
+                <td><img src="https://www.91-img.com/pictures/apple-iphone-9-mobile-phone-large-3.jpg?tr=h-271,c-at_max,q-80,pr-true" width="50" height="60" alt="Iphone 9" title="Iphone 9"></td>
+                <td>Iphone 9</td>
+
+            </tr>
+            <tr>
+                <td><img src="https://cdn.alloallo.media/catalog/product/samsung/galaxy-s/galaxy-s9/galaxy-s9-lilac-purple.jpg" width="50" height="60" alt="Galaxy S9" title="Galaxy S9"></td>
+                <td>Galaxy S9</td>
+                <td><img src="https://www.apple.com/newsroom/images/product/iphone/standard/iphonex_front_back_glass_big.jpg.large.jpg" width="50" height="60" alt="Iphone X" title="Iphone X"></td>
+                <td>Iphone X</td>
+
+            </tr>
+
+            </table>
+
+
+</body>
+</html>
