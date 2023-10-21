@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-
+ 
 <html>
 
 	<head>
@@ -15,12 +15,18 @@
 		<p> Nogometaši Francuske, Belgije i Portugala osigurali su nastup na EURU 2024. godine u Njemačkoj već u petak, tri kola prije završetka kvalifikacija osiguravši jedno od prva dva mjesta u skupinama B, F, odnosno J. </p>
 
 		<p> Aktualni svjetski doprvak Francuska u svom je šestom nastupu u skupini B ostvarila i šestu pobjedu svladavši kao gost Nizozemsku </p>
-            
-        <img src="/mbape.jpg" alt="Mbappe" height= "400">
+        <figure>        
+            <a target="_blank" href="mbape.jpg">
+                <img src="mbape.jpg" alt="Mbappé" title="Mbappé" height= "338">
+            </a>
+            <figcaption>
+                <a href="https://www.instagram.com/k.mbappe/">Kylian Mbappé</a> of <a href="https://www.instagram.com/equipedefrance/" >France</a>
+            </figcaption>
+        </figure>   
 		
         <figure>
             <a target="_blank" href="https://static.jutarnji.hr/images/slike/2023/10/13/o_30826127_1280.jpg">
-                <img src="https://static.jutarnji.hr/images/slike/2023/10/13/o_30826127_1280.jpg" alt="C.Ronaldo, R.Leao, B.Fernandes" height= "400">
+                <img src="https://static.jutarnji.hr/images/slike/2023/10/13/o_30826127_1280.jpg" alt="C.Ronaldo, R.Leao, B.Fernandes" title="Portugal football players" height= "400">
             </a>
             <figcaption> 
              DESNO:
