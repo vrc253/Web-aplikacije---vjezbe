@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="HTML, CSS">
+    <meta name="author" content="Krešimir Vrdoljak">
+    <title>Vjezba11_K.Vrdoljak</title>
+</head>
+<body>
+    <form method="post" name="forma" id="forma">
+        <div>
+            <label for="firstname">Ime:</label>
+            <input type="text" id="firstname" name="firstname"><br>
+        </div>
+
+        <div class="form-group">
+            <label for="lastname">Prezime:</label>
+            <input type="text" id="lastname" name="lastname"><br>
+        </div>
+
+        <div>
+            <label for="email">e-mail:</label>
+            <input type="email" id="email" name="email"><br>
+        </div>
+
+        <div>
+            <label for="country">Country</label>
+            <select id="country" name="country">
+                <option value=""></option>
+                <option value="HR">Hrvatska</option>
+                <option value="DE">Njemacka</option>
+            </select>
+        </div>
+
+        <div>
+            <textarea name="note" id="note" 
+                    placeholder="Posaljite poruku">
+
+            </textarea>
+        </div>
+
+        <div>
+            <input type="submit" value="Posalji">
+            <input type="reset" value="Ponisti">
+        </div>
+        
+    </form>
+    
+</body>
+</html>
