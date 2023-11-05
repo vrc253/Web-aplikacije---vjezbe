@@ -6,8 +6,88 @@
     <meta name="keywords" content="HTML, CSS">
     <meta name="author" content="Krešimir Vrdoljak">
     <title>Projekt K.Vrdoljak</title>
+    <link rel="icon" type="image/x-icon" href="mazda-48.ico">
+
+    <style>
+
+        header {
+            background-color: #1f1e1e;
+            color: #fff;
+            padding: 20px;
+            text-align: left;
+        }
+
+        footer {
+        background-color: #1f1e1e;
+        color: #fff;
+        text-align: center;
+        padding: 10px;
+        }
+
+
+        nav ul {
+            list-style: none;
+            padding: 0;
+        }
+        
+        nav li {
+            display: inline;
+            margin-right: 20px;
+        }
+
+        nav a {
+            text-decoration: none;
+            color: #fffbfb;
+        }
+
+        main {
+            background-color: #fff;
+            padding: 20px;
+            margin: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+        }
+
+    </style>
+
 </head>
+
+
+
+
 <body>
-    
+    <header>
+        <nav>
+            <ul>
+                <li><a href="https://www.mazda.hr/#">Pocetna</a></li>
+                <li><a href="https://www.mazda.hr/zasto-mazda/crafted-in-japan/#">O nama</a></li>
+                <li><a href="https://www.mazda.hr/obrasci/pretraga-partnera/#">Partneri</a></li>
+                <li><a href="https://www.mazda.hr/modeli/#">Modeli</a></li>
+            </ul>
+        </nav>
+
+    </header>
+
+
+        <h1>Projektni zadatak Kresimir Vrdoljak</h1>
+
+        <figure>
+            <a target="_blank" href="mazda.jpg"><img src="mazda.jpg" alt="Mazda 6" height="300" title="mbape"></a>
+                
+            
+            <figcaption>Image Source: <a  href="https://via.placeholder.com" target="_blank">via.placeholder.com</a></figcaption>
+        </figure>
+
+
+
+
+
+    <footer>
+        <p>Copyright &copy; 2023 Kresimir Vrdoljak. 
+            <a href="https://github.com/vrc253/Web-aplikacije---vjezbe/blob/main/Projekt">
+                <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" height="20px">
+            </a> 
+        
+        </p> 
+    </footer> 
 </body>
 </html>
